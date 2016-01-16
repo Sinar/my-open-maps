@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PPR_Kota_Damansara" id="PPR_Kota_Damansara">
+	<SimpleField name="Block" type="string"></SimpleField>
+</Schema>
+<Folder><name>PPR_Kota_Damansara</name>
+  <Placemark>
+	<name>PPR Block C/D Commons</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">CD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.576805459321093,3.177668040581953 101.577011802456951,3.177961119597847 101.577052489835907,3.177926298332987 101.577253020489081,3.177775406171691 101.577404145039324,3.177966923141879 101.577662800519505,3.177789915034313 101.577430301211479,3.177470720009518 101.577191989420726,3.177650629944732 101.57706120855994,3.177482327103076 101.576805459321093,3.177668040581953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>PPR Block C</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.576686303425717,3.177502639516447 101.576805459321093,3.177668040581953 101.57706120855994,3.177482327103076 101.577191989420726,3.177650629944732 101.577430301211479,3.177470720009518 101.577110614662899,3.177038355682166 101.576695022149764,3.177340140198198 101.576686303425717,3.177502639516447</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>PPR Block D</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.577052489835907,3.177926298332987 101.577011802456951,3.177961119597847 101.577264645454491,3.178268707386393 101.577424488728752,3.178260002072878 101.577805206345701,3.177993039089598 101.577662800519505,3.177789915034313 101.577404145039324,3.177966923141879 101.577253020489081,3.177775406171691 101.577052489835907,3.177926298332987</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>PPR Block A/B Commons</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">AB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.578307986099304,3.176527643223255 101.578345767236854,3.17617943003823 101.578127799135586,3.176382554410438 101.577962143378585,3.176208447808142 101.57765408179543,3.176466705924355 101.577680237967584,3.176724963975964 101.577767425208094,3.176649517810268 101.577889487344819,3.176524741447194 101.578078393032612,3.176727865751465 101.578307986099304,3.176527643223255</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>PPR Block A</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.577479707314396,3.176263581568711 101.57765408179543,3.176466705924355 101.577962143378585,3.176208447808142 101.578127799135586,3.176382554410438 101.578345767236854,3.17617943003823 101.578034799412379,3.175851529181642 101.577904018551607,3.175895055850027 101.577479707314396,3.176263581568711</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>PPR Block B</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PPR_Kota_Damansara">
+		<SimpleData name="Block">B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>relativeToGround</altitudeMode><coordinates>101.577767425208094,3.176649517810268 101.577680237967584,3.176724963975964 101.578046424377746,3.177105096496193 101.578351579719566,3.176823624338177 101.578473641856306,3.176707553322828 101.578307986099304,3.176527643223255 101.578078393032612,3.176727865751465 101.577889487344819,3.176524741447194 101.577767425208094,3.176649517810268</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
